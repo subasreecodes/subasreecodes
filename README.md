@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+This is Subasree Balamurali, computer science student working on
+def analysis(): indenting data for the function to be executed properly and returning dashboards for insights 💻
+drafting & designing novel product notions during coffee breaks ☕️ link: [https://www.behance.net/subasreebalamurali](url)
 <!--
 **subasreecodes/subasreecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
