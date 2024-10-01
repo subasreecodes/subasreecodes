@@ -2,7 +2,7 @@
 This is Subasree Balamurali, computer science student working on <br>
 def analysis(dataset): indenting analysis code and returning dashboards for insights 💻 <br>
 I also draft and design novel product notions during coffee breaks ☕️ <br>
-link: [https://www.behance.net/subasreebalamurali](url)
+link: [https://www.behance.net/subasreebalamurali]
 <!--
 **subasreecodes/subasreecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
