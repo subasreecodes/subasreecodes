@@ -1,5 +1,5 @@
 ## Hi there, Subasree here 👋
-Data & AI enthusiast running on coffee and lots of scrambled data ☕📊  
+running on coffee and a plateful of scrambled data ☕📊  
 
 Data is the server that powers an organization, and I'm passionate about programming it by discovering analytical trends, spotting novel patterns, predicting growth, and turning it into actionable insights.
 
