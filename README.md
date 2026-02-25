@@ -1,7 +1,7 @@
 ## Hi there, Subasree here
 Data & AI enthusiast running on coffee and lots of scrambled data ☕📊  
 
-Data is the server that powers an organization, and I'm passionate about programming it by discovering analytical trends, spotting novel patterns, predicting growth, and turning data into actionable insights.
+Data is the server that powers an organization, and I'm passionate about programming it by discovering analytical trends, spotting novel patterns, predicting growth, and turning it into actionable insights.
 
 <!--
 **subasreecodes/subasreecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
