@@ -1,7 +1,6 @@
-## Hi there, Subasree here 👋
-running on coffee and a plateful of scrambled data ☕📊  
-
-
+## Hi there, Suba here 👋
+I am currently working as a 5G Networking and Security Researcher 
+and self exploring Metacognition AI to design and engineer devices in healthcare
 
 
 <!--
