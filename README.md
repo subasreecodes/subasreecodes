@@ -2,7 +2,7 @@
 I am currently working as a 5G Networking and Security Researcher 
 and self exploring Metacognition AI to design and engineer devices in healthcare 
 <br>
-How networking, security, AI and cognition works? is similar to how you debug a code? 
+How Networking, Security, AI and Cognition works? is similar to, how you debug a code?
 
 
 <!--
