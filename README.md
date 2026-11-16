@@ -1,9 +1,10 @@
 ## Hi there, Suba here 👋
-I am currently working as a 5G Networking and Security Researcher 
-and self exploring Metacognition AI to design and engineer devices in healthcare 
-<br>
-How Networking Security, AI and Cognition works? is similar to, how you debug a code? 
+5G Networking and Security Researcher | Exploring Metacognition AI for Healthcare Wearables
 
+My work sits at the intersection of Network Security, Artificial Intelligence and Cognitive Psychology. Driven by a passion for data and security, I research next-generation 5G networks while self-exploring Metacognition AI to design and engineer reliable, AI-powered wearable devices that support cognitive healthcare.
+
+I research to explore, experiment, and discover.
+<br>
 
 <!--
 **subasreecodes/subasreecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
