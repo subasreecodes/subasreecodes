@@ -1,5 +1,5 @@
 ## Hi, Suba here 👋
-5G Networking and Security Researcher | Exploring Metacognition AI for Healthcare Wearables
+Working as a 5G Networking and Security Researcher | Self Exploring Metacognition AI for Healthcare Wearables
 
 My work sits at the intersection of Network Security, Artificial Intelligence and Cognitive Psychology. Driven by a passion for data and security, I research next-generation 5G networks while self-exploring Metacognition AI to design and engineer reliable, AI-powered wearable devices that support cognitive healthcare.
 
